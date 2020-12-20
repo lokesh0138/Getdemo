@@ -7,6 +7,7 @@ public class AppiumTest {
 	@Test
 	public void mobilelogin(){
 		System.out.println("mobile launched");
+		System.out.println("Appium launched");
 		
 	}
 	@Test
